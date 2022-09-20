@@ -4,8 +4,14 @@
     background-size: cover;
 
 }*/
+.w3-link{
+    text-decoration: none;
+}
 .obrazok{
-    opacity: 50%;
+    opacity: 10%;
+    position: center;
+    width: 1425px;
+    height: 620px;
 }
 .nadpis{
     color: red;
